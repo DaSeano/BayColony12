@@ -99,6 +99,12 @@
 	floor_tile = null
 	intact = 0
 
+/turf/simulated/floor/plating/dirt
+	name = "dirt"
+	icon_state = "asteroid"
+	floor_tile = null
+	intact = 0
+
 /turf/simulated/floor/plating/airless
 	icon_state = "plating"
 	name = "airless plating"
