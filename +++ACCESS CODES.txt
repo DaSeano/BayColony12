@@ -1,0 +1,234 @@
+Civil Buildings	
+0	Unlocked
+1	Colony Hall Offices
+2	Bar
+3	Café
+4	Broadcast & News
+5	Janitor
+6	Chapel
+7	Library
+8	Bank
+9	Delivery
+	
+Administration	
+10	Administration Corridor
+11	Governor's Residence
+12	Governor's Office
+13	Chief Auditor's Office
+14	Administration Briefing
+15	Office of Justice
+16	Gate Access
+17	Cargo & Airlock
+18	Quartermaster's Office
+19	
+	
+Dune Police Station	
+20	Police Access Pass
+21	Police Only
+22	Colony Hall Secure
+23	Colony Security Booths
+24	Customs/Arrivals Checkpoint
+25	Armory
+26	Forensics
+27	Dune Police Sheriff's Office
+28	Chief of Police's Office
+29	Riot Control
+30	Tactical Storage
+31	Custody Cells
+32	Solitary Cells
+33	
+34	Warden
+35	Communal Prison
+36	
+37	
+38	
+39	
+	
+Dune Medical Centre	
+40	Medical Guest Pass Access
+41	Medical Only
+42	Reception & Examination
+43	Morgue
+44	Chemistry
+45	Medical Research
+46	Director of Medicine's Office
+47	Operating Theatres
+48	Mental Health
+49	Secondary Storage
+50	Exterior Access
+51	
+52	
+53	
+54	
+55	
+56	
+57	
+58	
+59	
+	
+Maintenance & Energy Plant	
+60	Basic Access
+61	Maintenance
+62	Tool Storage
+63	Hardsuit Storage
+64	Monitoring Station
+65	Power Plant
+66	Solar Power Farm (Colony Exterior)
+67	Main Atmospherics
+68	Atmospheric Release Station (Colony Exterior)
+69	
+70	Colony Power Stations
+71	Colony Atmospheric Stations
+72	
+73	
+74	
+75	
+76	
+77	
+78	
+79	
+	
+Nanotrasen Secure Research Facility	
+80	Corridors
+81	Reception
+82	Security
+83	Lab 1
+84	Lab 2
+85	Telescience Lab
+86	Gas Mixing Lab
+87	Chemistry Research Lab
+88	Teleporter Room
+89	Robotics
+90	Operating Theatre
+91	AI (?)
+92	
+93	
+94	
+95	
+96	
+97	
+98	
+99	
+	
+Residential	
+101	Apartment One
+102	Apartment Two
+103	Apartment Three
+104	Apartment Four
+105	Unassigned
+106	Unassigned
+107	Unassigned
+108	Unassigned
+109	Unassigned
+110	Unassigned
+111	Unassigned
+112	Unassigned
+113	Unassigned
+114	Unassigned
+115	Unassigned
+116	Unassigned
+117	Unassigned
+118	Unassigned
+119	Unassigned
+120	Unassigned
+121	Unassigned
+122	Unassigned
+123	Unassigned
+124	Unassigned
+125	Unassigned
+126	Unassigned
+127	Unassigned
+128	Unassigned
+129	Unassigned
+130	Unassigned
+131	Unassigned
+132	Unassigned
+133	Unassigned
+134	Unassigned
+135	Unassigned
+136	Unassigned
+137	Unassigned
+138	Unassigned
+139	Unassigned
+140	Unassigned
+141	Unassigned
+142	Unassigned
+143	Unassigned
+144	Unassigned
+145	Unassigned
+146	Unassigned
+147	Unassigned
+148	Unassigned
+149	Unassigned
+150	Unassigned
+151	Unassigned
+152	Unassigned
+153	Unassigned
+154	Unassigned
+155	Unassigned
+156	Unassigned
+157	Unassigned
+158	Unassigned
+159	Unassigned
+160	Unassigned
+161	Unassigned
+162	Unassigned
+163	Unassigned
+164	Unassigned
+165	Unassigned
+166	Unassigned
+167	Unassigned
+168	Unassigned
+169	Unassigned
+170	Unassigned
+171	Unassigned
+172	Unassigned
+173	Unassigned
+174	Unassigned
+175	Unassigned
+176	Unassigned
+177	Unassigned
+178	Unassigned
+179	Unassigned
+180	Unassigned
+181	Unassigned
+182	Unassigned
+183	Unassigned
+184	Unassigned
+185	Unassigned
+186	Unassigned
+187	Unassigned
+188	Unassigned
+189	Unassigned
+190	Unassigned
+191	Unassigned
+192	Unassigned
+193	Unassigned
+194	Unassigned
+195	Unassigned
+196	Unassigned
+197	Unassigned
+198	Unassigned
+199	Unassigned
+	
+Comercial	
+201	Business One
+202	Business Two
+203	Business Three
+204	Business Four
+205	Unassigned
+206	Unassigned
+207	Unassigned
+208	Unassigned
+209	Unassigned
+210	Unassigned
+211	Unassigned
+212	Unassigned
+213	Unassigned
+214	Unassigned
+215	Unassigned
+216	Unassigned
+217	Unassigned
+218	Unassigned
+219	Unassigned
+220	Unassigned

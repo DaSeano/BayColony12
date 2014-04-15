@@ -1344,5 +1344,5 @@
 #include "code\ZAS\Zone.dm"
 #include "interface\interface.dm"
 #include "interface\skin.dmf"
-#include "maps\tgstation2.dmm"
+#include "maps\BayColony.dmm"
 // END_INCLUDE

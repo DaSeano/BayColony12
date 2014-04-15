@@ -1,4 +1,4 @@
-set MAPFILE=tgstation2.dmm
+set MAPFILE=BayColony.dmm
 
 cd ../../maps
 copy %MAPFILE% %MAPFILE%.backup
