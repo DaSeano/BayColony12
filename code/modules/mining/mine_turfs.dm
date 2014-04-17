@@ -8,10 +8,11 @@ var/list/artifact_spawn = list() // Runtime fix for geometry loading before cont
 	name = "Rock"
 	icon = 'icons/turf/walls.dmi'
 	icon_state = "rock"
+	oxygen = 0
+	nitrogen = 0
 	opacity = 1
 	density = 1
 	blocks_air = 1
-	oxygen = 0
 	temperature = TCMB
 	var/mineral/mineral
 	var/mined_ore = 0
@@ -383,10 +384,11 @@ var/list/artifact_spawn = list() // Runtime fix for geometry loading before cont
 
 
 /turf/simulated/floor/plating/airless/asteroid //floor piece
-	name = "Sand"
+	name = "Asteroid"
 	icon = 'icons/turf/floors.dmi'
 	icon_state = "asteroid"
 	oxygen = 0.01
+	nitrogen = 0.01
 	temperature = TCMB
 	icon_plating = "asteroid"
 	var/dug = 0       //0 = has not yet been dug, 1 = has already been dug
