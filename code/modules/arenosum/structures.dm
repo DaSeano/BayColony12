@@ -8,3 +8,42 @@
 	icon = 'icons/turf/floors.dmi'
 	icon_state = "wood_siding1"
 	anchored = 1
+
+
+//****** SIGNS ******\\
+
+/obj/structure/dunesign/air
+	name = "air tank"
+	icon = 'icons/obj/arenosum.dmi'
+	icon_state = "airsign"
+	anchored = 1
+
+/obj/structure/dunesign/scrub
+	name = "scrub tank"
+	icon = 'icons/obj/arenosum.dmi'
+	icon_state = "scrubsign"
+	anchored = 1
+
+/obj/structure/dunesign/disposals
+	name = "disposals corral"
+	icon = 'icons/obj/arenosum.dmi'
+	icon_state = "disposalscorral"
+	anchored = 1
+
+/obj/structure/dunesign/atmos
+	name = "atmospherics station"
+	icon = 'icons/obj/arenosum.dmi'
+	icon_state = "atmosstation"
+	anchored = 1
+
+/obj/structure/dunesign/power
+	name = "power control station"
+	icon = 'icons/obj/arenosum.dmi'
+	icon_state = "powerstation"
+
+/obj/structure/dunesign/police
+	name = "police booth"
+	icon = 'icons/obj/arenosum.dmi'
+	icon_state = "policebooth"
+	anchored = 1
+
