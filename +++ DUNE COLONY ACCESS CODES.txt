@@ -23,7 +23,7 @@ Administration
 19	
 	
 Dune Police Station	
-20	Police Access Pass
+20	Police Access Pass //For areas accessible by the guest pass. Corridors, Office space, etc.
 21	Police Only
 22	Colony Hall Secure
 23	Colony Security Booths
@@ -45,7 +45,7 @@ Dune Police Station
 39	
 	
 Dune Medical Centre	
-40	Medical Guest Pass Access
+40	Medical Guest Pass Access //This is for open areas that visitors/patients may access.
 41	Medical Only
 42	Reception & Examination
 43	Morgue
