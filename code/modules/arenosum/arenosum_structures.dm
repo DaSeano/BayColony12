@@ -10,6 +10,19 @@
 	anchored = 1
 
 
+//****** GLASS ******\\
+
+/obj/structure/window/basic/arenosum
+	name = "window"
+	desc = "A flat pane of glass."
+	icon = 'icons/obj/structures.dmi'
+	icon_state = "window"
+	basestate = "window"
+	dir = 5
+	health = 20
+
+
+
 //****** SIGNS ******\\
 
 /obj/structure/dunesign/air

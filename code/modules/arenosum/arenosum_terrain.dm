@@ -1,4 +1,4 @@
-/**********************ARENOSUM SAND**************************/
+/**********************ARENOSUM SIMULATED SAND**************************/
 
 
 /turf/simulated/floor/plating/airless/arenosum //floor piece
