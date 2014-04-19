@@ -30,8 +30,8 @@ Dune Police Station
 24	Customs/Arrivals Checkpoint
 25	Armory
 26	Forensics
-27	Dune Police Sheriff's Office
-28	Chief of Police's Office
+27	Sheriff
+28	Chief of Police
 29	Riot Control
 30	Tactical Storage
 31	Custody Cells
@@ -51,7 +51,7 @@ Dune Medical Centre
 43	Morgue
 44	Chemistry
 45	Medical Research
-46	Director of Medicine's Office
+46	Director of Medicine/Emergency Unit Manager
 47	Operating Theatres
 48	Mental Health
 49	Secondary Storage
@@ -68,9 +68,9 @@ Dune Medical Centre
 	
 Maintenance & Energy Plant	
 60	Basic Access
-61	Maintenance
-62	Tool Storage
-63	Hardsuit Storage
+61	Maintenance Supervisor/Foreman
+62	Garage
+63	Vehicle Airlocks
 64	Monitoring Station
 65	Power Plant
 66	Solar Power Farm (Colony Exterior)
@@ -101,7 +101,7 @@ Nanotrasen Secure Research Facility
 89	Robotics
 90	Operating Theatre
 91	AI (?)
-92	
+92	Nanotrasen Representative/NT Security Officer
 93	
 94	
 95	
